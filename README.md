@@ -101,13 +101,13 @@ VITE_GOOGLE_DRIVE_FOLDER_ID=your_drive_folder_id
 ## 💬 AI Task Automation Features
 
 - Web search / Research tool
-![image](https://github.com/user-attachments/assets/77c6014e-b3d0-45a2-aa0b-24772ad3cd15)
+![image](docs/assets/77c6014e-b3d0-45a2-aa0b-24772ad3cd15.png)
 
 - Email tool
-![image](https://github.com/user-attachments/assets/1853720e-9998-411b-a6e7-872117bac01f)
+![image](docs/assets/1853720e-9998-411b-a6e7-872117bac01f.png)
 
 - Email automatically sent in backend
-![image](https://github.com/user-attachments/assets/d549decc-9399-4c18-a61a-5ab19eac3d36)
+![image](docs/assets/d549decc-9399-4c18-a61a-5ab19eac3d36.png)
 
 - **Email Handling**: Compose and send context-aware emails.
 - **Web Search**: Conduct targeted searches and summarize results.
